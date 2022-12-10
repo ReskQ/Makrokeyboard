@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 #include <Keyboard.h>
 
-//defines for LEDS
+//defines for LEDS test
 #define FADE 1
 
 
